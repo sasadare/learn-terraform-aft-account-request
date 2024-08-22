@@ -6,8 +6,8 @@ module "sandbox" {
     AccountName               = "Test"
     ManagedOrganizationalUnit = "Sandbox"
     SSOUserEmail              = "sasadare+amazon.com"
-    SSOUserFirstName          = "Admin"
-    SSOUserLastName           = "User"
+    SSOUserFirstName          = "Shubhangi"
+    SSOUserLastName           = "Sadare"
   }
 
   account_tags = {
