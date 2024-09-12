@@ -23,8 +23,8 @@ module "sandbox" {
     group = "non-prod"
   }
 
-#   account_customizations_name = "sandbox"
-# }
+  account_customizations_name = "sandbox"
+}
 # # module "sandbox01" {
 # #   source = "./modules/aft-account-request"
 
