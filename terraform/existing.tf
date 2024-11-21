@@ -1,4 +1,4 @@
-module "aft_vending_10" {
+module "aft_vending_existing" {
    source = "./modules/aft-account-request"
  
    control_tower_parameters = {
