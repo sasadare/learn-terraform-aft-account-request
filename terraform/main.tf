@@ -4,7 +4,7 @@ module "aft_vending_10" {
    control_tower_parameters = {
      AccountEmail              = "aftbootcamptestt+sasadare@amazon.com"
      AccountName               = "AFT-Vending10"
-     ManagedOrganizationalUnit = "AFT" 
+     ManagedOrganizationalUnit = "Sandbox(ou-401u-g3zh8v7z)" 
      SSOUserEmail              = "aftbootcamptestt+sasadare@amazon.com"
      SSOUserFirstName          = "AFT"
      SSOUserLastName           = "Vending10"
