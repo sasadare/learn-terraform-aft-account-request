@@ -2,10 +2,10 @@ module "aft_vending_existing" {
    source = "./modules/aft-account-request"
  
    control_tower_parameters = {
-     AccountEmail              = "bootcamp+sasadare@amazon.com"
-     AccountName               = "Bootcamp"
+     AccountEmail              = "sasadare+tryoutfinalll12@amazon.com"
+     AccountName               = "tryoutfinal"
      ManagedOrganizationalUnit = "Sandbox(ou-401u-g3zh8v7z)" 
-     SSOUserEmail              = "bootcamp+sasadare@amazon.com"
+     SSOUserEmail              = "sasadare+tryoutfinalll12@amazon.com"
      SSOUserFirstName          = "Admin"
      SSOUserLastName           = "User"
    }
