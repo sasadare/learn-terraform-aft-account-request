@@ -4,7 +4,7 @@ module "aft_creation_test" {
    control_tower_parameters = {
      AccountEmail              = "sasadare+aftnewaccountcreatetest@amazon.com"
      AccountName               = "AFTNewAccountCreateTest"
-     ManagedOrganizationalUnit = "Dummy(ou-401u-tnkq497z)" 
+     ManagedOrganizationalUnit = "Sandbox(ou-401u-g3zh8v7z)" 
      SSOUserEmail              = "sasadare+aftnewaccountcreatetest@amazon.com"
      SSOUserFirstName          = "AFT"
      SSOUserLastName           = "createtest"
