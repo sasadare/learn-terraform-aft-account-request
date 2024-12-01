@@ -4,7 +4,7 @@ module "aft_vending_existing" {
    control_tower_parameters = {
      AccountEmail              = "sasadare+tryoutfinalll12@amazon.com"
      AccountName               = "tryoutfinal"
-     ManagedOrganizationalUnit = "Sandbox(ou-401u-g3zh8v7z)" 
+     ManagedOrganizationalUnit = "Dummy(ou-401u-tnkq497z)" 
      SSOUserEmail              = "sasadare+tryoutfinalll12@amazon.com"
      SSOUserFirstName          = "Admin"
      SSOUserLastName           = "User"
