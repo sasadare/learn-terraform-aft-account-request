@@ -30,4 +30,5 @@ module "aft_vending_undercfct" {
      custom1 = "Dedsec"
    }
  
+   account_customizations_name = "sandbox"
  }
